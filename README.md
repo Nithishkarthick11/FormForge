@@ -6,6 +6,8 @@ Features:
   - Dark / Light mode toggle
   - Favorite count badge
   - Responsive UI
+
+
 Tech Stack:
   - React (Vite)
   - Firebase Auth & Firestore
