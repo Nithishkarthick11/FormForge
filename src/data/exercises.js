@@ -5,7 +5,7 @@ export const exercises = [
     muscle: "chest",
     equipment: "bodyweight",
     difficulty: "beginner",
-    image: "/images/pushup.jpg",
+    image: "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHVzaHVwfGVufDB8fDB8fHww",
     steps: [
       "Hands slightly wider than shoulders",
       "Keep core tight and body straight",
@@ -19,7 +19,7 @@ export const exercises = [
     muscle: "chest",
     equipment: "bodyweight",
     difficulty: "beginner",
-    image: "/images/Incline-Push-Ups.jpg",
+    image: "Incline-Push-Ups.jpg",
     steps: [
       "Place hands on elevated surface",
       "Keep body straight from head to heels",
@@ -33,7 +33,7 @@ export const exercises = [
     muscle: "arms",
     equipment: "bodyweight",
     difficulty: "beginner",
-    image: "/images/diamond-pushups.webp",
+    image: "diamond-pushups.webp",
     steps: [
       "Make a diamond shape with your hands",
       "Keep elbows close to your body",
@@ -47,7 +47,7 @@ export const exercises = [
     muscle: "chest",
     equipment: "dumbbell",
     difficulty: "beginner",
-    image: "/images/dumbpres.jpeg",
+    image: "dumbpres.jpeg",
     steps: [
       "Lie on bench with dumbbells",
       "Press up until arms are straight",
